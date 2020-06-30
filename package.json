@@ -2,10 +2,10 @@
   "name": "chatapp",
   "version": "1.0.0",
   "description": "chat-app ",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index",
-    "app": "nodemon index"
+    "start": "node server",
+    "app": "nodemon server"
   },
   "author": "Haider Abidi",
   "license": "ISC",
